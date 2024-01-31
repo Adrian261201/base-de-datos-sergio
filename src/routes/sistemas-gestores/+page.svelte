@@ -3,7 +3,9 @@
 	export let data;
 </script>
 
-<div class="container flex flex-col justify-center items-center my-4 w-full h-fit">
+<svelte:head><title>Sistemas gestores de bases de datos</title></svelte:head>
+
+<div class="container flex justify-center items-center my-4 w-full h-fit">
 	<section class="card p-2 w-[95%]">
 		<h1 class="h1 text-center p-2">Sistemas gestores de bases de datos</h1>
 		<p class="text-xl p-2">
